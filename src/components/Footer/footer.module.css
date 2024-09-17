@@ -1,0 +1,8 @@
+.footer {
+	padding: 8px 0 0;
+	border-top: 1px solid rgba(255, 255, 255, 0.148);
+	font-family: montserrat;
+	font-weight: 100;
+	display: flex;
+	justify-content: space-between;
+}

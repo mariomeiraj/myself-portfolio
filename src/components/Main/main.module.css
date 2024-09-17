@@ -1,0 +1,13 @@
+@font-face {
+	font-family: Recoleta;
+	src: url(../../assets/fonts/Recoleta.otf);
+}
+
+.main {
+	margin: 16px 0 16px;
+	height: 100%;
+	border-left: 1px solid white;
+	padding: 8px;
+	display: flex;
+	justify-content: space-between;
+}
